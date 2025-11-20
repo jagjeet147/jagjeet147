@@ -1,9 +1,6 @@
 <!-- ✨ Jagjeet Singh | Supercharged Profile README ✨ -->
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/121617307?v=4&v=4" height="220" />
-</p>
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Bungee+Spice&size=32&pause=1000&color=FEFF5C&center=true&vCenter=true&width=700&lines=Hi+I%27m+Jagjeet+Singh!;+Full-Stack+Maven+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;App+Builder+%7C+Cybersecurity+Davil;I+Love+Code,+Cloud,+Design,+Security+%F0%9F%94%A5" />
 </p>
 

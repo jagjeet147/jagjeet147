@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Bungee+Spice&size=32&pause=1000&color=FEFF5C&center=true&vCenter=true&width=700&lines=Hi+I%27m+Jagjeet+Singh!;+Full-Stack+Maven+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;App+Builder+%7C+Cybersecurity+Davil;I+Love+Code,+Cloud,+Design,+Security+%F0%9F%94%A5" />
 </p>
 <div align="center";font="bold">
-# 💀 If it's secure, I'll try to break it.
+# 💀 If it's secure, I'll break it.
 # 🔧 If it's broken, I'll build it better!
 </div>
 
@@ -77,7 +77,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Bungee+Spice&size=28&pause=800&color=FEFF5C&width=520&lines=Code,+Hack,+Break,+Build,+Secure,+Repeat." />
 </p>
 
-> 🕹️ <b>If it’s secure, I’ll try to break it. If it’s broken, I’ll build it better!</b>
+> 🕹️ <b>If it’s secure, I’ll break it. If it’s broken, I’ll build it better!</b>
 
 ---
 
